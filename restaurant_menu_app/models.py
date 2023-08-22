@@ -2,9 +2,9 @@ from django.db import models
 from django.contrib.auth.models import User
 
 MEAL_TYPE = (
-    ("appetizers","Appetizers"),
-    ("drinks","Drinks"),
-    ("entrees","Entrees"),
+    ("appetizers", "Appetizers"),
+    ("drinks", "Drinks"),
+    ("entrees", "Entrees"),
     ("desserts", "Desserts")
 
 )
